@@ -1,0 +1,279 @@
+{
+    "_id": {
+        "$oid": "60c3b0013d0d6475822790ea"
+    },
+    "description": {
+        "shortDescription": "Easy to use, easy to clean, fast, versatile and convenient, the Instant Pot Duo electric pressure cooker is America's most-loved multicooker. Slow cook, steam, sauté and more to make quick and easy meals anywhere, any time.",
+        "longDescription": "<p> Easy to use, easy to clean, fast, versatile and convenient, the Instant Pot Duo electric pressure cooker is America's most-loved multicooker. Slow cook, steam, sauté and more to make quick and easy meals anywhere, any time. </p><br><p><a href=\" target=\"_blank\"></a></p><br><p>PRODUCT FEATURES</p><ul> <li>Quick and easy cleanup with finger-print resistant stainless-steel sides and dishwasher-safe lid, inner pot and accessories</li> <li>7 appliances in one: pressure cooker, rice cooker, slow cooker, yogurt maker, steamer, sauté pan and food warmer</li> <li>Quick one-touch cooking with 13 Smart Touch customizable programs for cooking ribs, soups, beans, rice, poultry, yogurt, desserts and more on autopilot</li> <li>Smart-design inner pot uses food-grade 18/8 stainless-steel, a tri-ply bottom for more even cooking, perfect for sautéing</li> <li>10+ proven safety features including overheat protection and safe-locking lid</li> <li>6-quart large capacity cooks for up to 6 people, perfect for families and also great for meal prepping and batch cooking for singles and smaller households</li> <li>Cook fast or cook slow with pressure cooking - up to 70% faster than traditional cooking methods or slow cooking</li> <li>Hundreds of recipes in the free Instant Pot app (iOS and Android) so you can discover new favorites and prepare delicious meals right from the start</li></ul><p>WHAT'S INCLUDED</p><ul> <li>Extra sealing ring & stainless-steel steamer rack</li></ul><p>PRODUCT CARE</p><ul> <li>Manufacturer's 1-year limited warranty</li><li>For warranty information please click <a target=\"_blank\" href=\"https://cs.kohls.com/app/answers/detail/a_id/140\">here</a></li></ul><p>PRODUCT DETAILS</p><ul> <li>3-qt.: 700 watts, 10.63?H x 11.65?W x 11.18?D, weight 8.60 lbs.</li> <li>6-qt.: 1000 watts, 12.20?H x 13.39?W x 12.99?D, weight 11.46 lbs.</li> <li>8-qt.: 1200 watts, 13.19?H x 14.96?W x 14.37?D, weight 14.96 lbs.</li> <li></br><img src=\"https://media.kohlsimg.com/is/image/kohls/Prop65Icon2?wid=14&hei=14\" style=\"text-align:left;margin-right:5px;float:left;\"><p> This product can expose you to chemicals including Lead and Bisphenol A, which are known to the State of California to cause cancer, and birth defects or other reproductive harm. For more information go to <a target=\"_blank\" href=\"https://www.p65warnings.ca.gov/\">www.P65Warnings.ca.gov</a>.</p></li></ul><p>MODEL NUMBERS</p><ul> <li>3-qt.: 110-0032-01</li> <li>6-qt.: 112-0126-01</li> <li>8-qt.: 113-0045-01</li></ul>"
+    },
+    "webID": "4921012",
+    "price": {
+        "regularPriceType": "Regular",
+        "salePriceStatus": "Mixed",
+        "regularPrice": {
+            "minPrice": {
+                "$numberDouble": "99.99"
+            },
+            "maxPrice": {
+                "$numberDouble": "139.99"
+            }
+        },
+        "salePrice": {
+            "minPrice": {
+                "$numberDouble": "99.99"
+            },
+            "maxPrice": {
+                "$numberDouble": "119.99"
+            }
+        },
+        "percentageOff": null,
+        "suppressedPricingText": null,
+        "loyalty": {
+            "pointsEarned": {
+                "min": null,
+                "max": null
+            },
+            "loyaltyExclusions": null
+        },
+        "lowestApplicablePrice": {
+            "minPrice": {
+                "$numberDouble": "99.99"
+            },
+            "maxPrice": {
+                "$numberDouble": "119.99"
+            }
+        },
+        "mainPriceStr": "$99.99 - $119.99"
+    },
+    "images": [
+        {
+            "url": "https://media.kohlsimg.com/is/image/kohls/4921012?wid=350&hei=350&op_sharpen=1",
+            "height": "350",
+            "width": "350",
+            "altText": "Instant Pot Duo Plus 9-in-1 Multi-Use Pressure Cooker",
+            "type": "hero",
+            "idx": {
+                "$numberInt": "0"
+            }
+        }
+    ],
+    "brand": "Instant Pot",
+    "swatchImages": [],
+    "productStatus": "In Stock",
+    "productTitle": "Instant Pot Duo Plus 9-in-1 Multi-Use Pressure Cooker",
+    "productURL": "https://www.retailer.com/product/prd-4921012/product.jsp",
+    "avgRating": "4.8",
+    "ratingCount": {
+        "$numberInt": "178"
+    },
+    "videos": [],
+    "bestSeller": true,
+    "topRated": false,
+    "productOffers": [],
+    "rebate": {
+        "shortDescription": null,
+        "longDescription": null,
+        "rebateURL": null
+    },
+    "altImages": [
+        {
+            "url": "https://media.kohlsimg.com/is/image/kohls/4921012_ALT?wid=50&hei=50&op_sharpen=1",
+            "height": "50",
+            "width": "50",
+            "altText": "Instant Pot Duo Plus 9-in-1 Multi-Use Pressure Cooker",
+            "type": "alt",
+            "idx": {
+                "$numberInt": "0"
+            }
+        },
+        {
+            "url": "https://media.kohlsimg.com/is/image/kohls/4921012_ALT2?wid=50&hei=50&op_sharpen=1",
+            "height": "50",
+            "width": "50",
+            "altText": "Instant Pot Duo Plus 9-in-1 Multi-Use Pressure Cooker",
+            "type": "alt",
+            "idx": {
+                "$numberInt": "1"
+            }
+        },
+        {
+            "url": "https://media.kohlsimg.com/is/image/kohls/4921012_ALT3?wid=50&hei=50&op_sharpen=1",
+            "height": "50",
+            "width": "50",
+            "altText": "Instant Pot Duo Plus 9-in-1 Multi-Use Pressure Cooker",
+            "type": "alt",
+            "idx": {
+                "$numberInt": "2"
+            }
+        },
+        {
+            "url": "https://media.kohlsimg.com/is/image/kohls/4921012_ALT4?wid=50&hei=50&op_sharpen=1",
+            "height": "50",
+            "width": "50",
+            "altText": "Instant Pot Duo Plus 9-in-1 Multi-Use Pressure Cooker",
+            "type": "alt",
+            "idx": {
+                "$numberInt": "3"
+            }
+        },
+        {
+            "url": "https://media.kohlsimg.com/is/image/kohls/4921012_ALT5?wid=50&hei=50&op_sharpen=1",
+            "height": "50",
+            "width": "50",
+            "altText": "Instant Pot Duo Plus 9-in-1 Multi-Use Pressure Cooker",
+            "type": "alt",
+            "idx": {
+                "$numberInt": "4"
+            }
+        }
+    ],
+    "taxCode": "76800",
+    "productType": {
+        "isBuyProduct": false,
+        "isGetProduct": false,
+        "isVGC": false
+    },
+    "productDetails": "<p> Easy to use, easy to clean, fast, versatile and convenient, the Instant Pot Duo electric pressure cooker is America's most-loved multicooker. Slow cook, steam, sauté and more to make quick and easy meals anywhere, any time. </p><br><p><a href=\" target=\"_blank\"></a></p><br><p>PRODUCT FEATURES</p><ul> <li>Quick and easy cleanup with finger-print resistant stainless-steel sides and dishwasher-safe lid, inner pot and accessories</li> <li>7 appliances in one: pressure cooker, rice cooker, slow cooker, yogurt maker, steamer, sauté pan and food warmer</li> <li>Quick one-touch cooking with 13 Smart Touch customizable programs for cooking ribs, soups, beans, rice, poultry, yogurt, desserts and more on autopilot</li> <li>Smart-design inner pot uses food-grade 18/8 stainless-steel, a tri-ply bottom for more even cooking, perfect for sautéing</li> <li>10+ proven safety features including overheat protection and safe-locking lid</li> <li>6-quart large capacity cooks for up to 6 people, perfect for families and also great for meal prepping and batch cooking for singles and smaller households</li> <li>Cook fast or cook slow with pressure cooking - up to 70% faster than traditional cooking methods or slow cooking</li> <li>Hundreds of recipes in the free Instant Pot app (iOS and Android) so you can discover new favorites and prepare delicious meals right from the start</li></ul><p>WHAT'S INCLUDED</p><ul> <li>Extra sealing ring & stainless-steel steamer rack</li></ul><p>PRODUCT CARE</p><ul> <li>Manufacturer's 1-year limited warranty</li><li>For warranty information please click <a target=\"_blank\" href=\"https://cs.kohls.com/app/answers/detail/a_id/140\">here</a></li></ul><p>PRODUCT DETAILS</p><ul> <li>3-qt.: 700 watts, 10.63?H x 11.65?W x 11.18?D, weight 8.60 lbs.</li> <li>6-qt.: 1000 watts, 12.20?H x 13.39?W x 12.99?D, weight 11.46 lbs.</li> <li>8-qt.: 1200 watts, 13.19?H x 14.96?W x 14.37?D, weight 14.96 lbs.</li> <li></br><img src=\"https://media.kohlsimg.com/is/image/kohls/Prop65Icon2?wid=14&hei=14\" style=\"text-align:left;margin-right:5px;float:left;\"><p> This product can expose you to chemicals including Lead and Bisphenol A, which are known to the State of California to cause cancer, and birth defects or other reproductive harm. For more information go to <a target=\"_blank\" href=\"https://www.p65warnings.ca.gov/\">www.P65Warnings.ca.gov</a>.</p></li></ul><p>MODEL NUMBERS</p><ul> <li>3-qt.: 110-0032-01</li> <li>6-qt.: 112-0126-01</li> <li>8-qt.: 113-0045-01</li></ul>",
+    "itemMaxAvailableCount": "6197",
+    "SKUS": [
+        {
+            "skuCode": "54838756",
+            "images": [
+                {
+                    "url": "https://media.retailer.com/is/image/kohls/4921012?wid=350&hei=350&op_sharpen=1",
+                    "height": "350",
+                    "width": "350",
+                    "altText": "Instant Pot Duo Plus 9-in-1 Multi-Use Pressure Cooker"
+                }
+            ],
+            "color": "Stainless Steel",
+            "size": "3 QT",
+            "price": {
+         "regularPrice": {
+                    "minPrice": {
+                        "$numberDouble": "99.99"
+                    },
+                    "maxPrice": null
+                }
+            },
+            "availability": "In Stock",
+            "skuId": "54838756"
+        },
+        {
+            "skuCode": "72550111",
+      
+            "color": "Stainless Steel",
+            "size": "6 QT",
+            "price": {
+                "regularPrice": {
+                    "minPrice": {
+                        "$numberDouble": "119.99"
+                    },
+                    "maxPrice": null
+                }
+            },
+            "availability": "In Stock",
+            "itemMaxAllowedCount": {
+                "$numberInt": "99"
+            },
+            "itemMaxAvailableCount": {
+                "$numberInt": "6197"
+            },
+            "skuId": "72550111"
+        },
+        {
+            "skuCode": "82198712",
+            "images": [
+                {
+                    "url": "https://media.retailer.com/is/image/kohls/4921012?wid=350&hei=350&op_sharpen=1",
+                    "height": "350",
+                    "width": "350",
+                    "altText": "Instant Pot Duo Plus 9-in-1 Multi-Use Pressure Cooker"
+                }
+            ],
+            "color": "Stainless Steel",
+            "size": "8 QT",
+            "price": {
+                "isSuppressed": false,
+                "salePriceStatus": "Sale",
+                "salePrice": {
+                    "minPrice": {
+                        "$numberDouble": "119.99"
+                    },
+                    "maxPrice": null
+                },
+                "regularPriceType": "Regular",
+                "regularPrice": {
+                    "minPrice": {
+                        "$numberDouble": "139.99"
+                    },
+                    "maxPrice": null
+                },
+                "promotion": {
+                    "tieredPrice": null,
+                    "group": null,
+                    "bogo": null
+                },
+                "suppressedPricingText": null,
+                "yourPriceInfo": {
+                    "yourPrice": null,
+                    "yourPriceSavings": null,
+                    "appliedOffers": [],
+                    "saveMoreOffers": [],
+                    "offersIncludedInYourPrice": [],
+                    "offersEligibleForYourPrice": []
+                },
+                "pointsEarned": null,
+                "kcEarned": {
+                    "$numberInt": "20"
+                },
+                "lowestApplicablePrice": {
+                    "$numberDouble": "119.99"
+                }
+            },
+            "skuId": "82198712",
+        }
+    ],
+    "isStoreAvailable": true,
+    "priceSet": [
+        {
+            "$numberDouble": "119.99"
+        },
+        {
+            "$numberDouble": "99.99"
+        }
+    ],
+    "breadcrumbs": [
+        {
+            "name": "Kitchen & Dining",
+            "seoURL": "/catalog/kitchen-dining.jsp?CN=Department:Kitchen%20%26%20Dining",
+            "currentDimensionId": "Department:Kitchen%20%26%20Dining"
+        },
+        {
+            "name": "Small Appliances",
+            "seoURL": "/catalog/small-appliances-kitchen-dining.jsp?CN=Category:Small%20Appliances+Department:Kitchen%20%26%20Dining",
+            "currentDimensionId": "Category:Small%20Appliances"
+        },
+        {
+            "name": "Cookers & Steamers",
+            "seoURL": "/catalog/cookers-steamers-small-appliances-kitchen-dining.jsp?CN=Product:Cookers%20%26%20Steamers+Category:Small%20Appliances+Department:Kitchen%20%26%20Dining",
+            "currentDimensionId": "Product:Cookers%20%26%20Steamers"
+        },
+        {
+            "name": "Instant Pot",
+            "seoURL": "/catalog/instant-pot.jsp?CN=Brand:Instant%20Pot",
+            "currentDimensionId": "Brand:Instant%20Pot"
+        }
+    ],
+    "skuId": "853084004798",
+    "variants": {
+       "productFeatureCode": "30",
+        "largeImage": "https://media.retailer.com/is/image/kohls/4921012?wid=1000&hei=1000&op_sharpen=1",
+        "sizeList": [
+            "3 QT",
+            "6 QT",
+            "8 QT"
+        ],
+        "displaySizeGuide": false
+    }
+}
